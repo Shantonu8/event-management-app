@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340941546246",
+    "project_id": "dd-event-management-app",
+    "storage_bucket": "dd-event-management-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340941546246:android:48436bde076464bb08f487",
+        "android_client_info": {
+          "package_name": "shantonup.design_event_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340941546246-eeqeq6v72r3v0rqp5b6mu22bhvvmu184.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFRajJBhoK4P6ur-4DZdFYKzT6qdq274"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340941546246-eeqeq6v72r3v0rqp5b6mu22bhvvmu184.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
